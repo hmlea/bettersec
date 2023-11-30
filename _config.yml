@@ -1,0 +1,16 @@
+title: Better Security
+description: An open-source site detailing better information security practices.
+theme: just-the-docs
+
+url: http://hmlea.github.io/bettersec
+
+favicon_ico: "/assets/images/favicon.ico"
+
+search_enabled: true
+search.rel_url: false
+
+footer_content: "Copyright &copy; 2023 Hayden Leatherwood | <a href=\"https://github.com/hmlea/bettersec\">source</a>"
+
+aux_links:
+  Site Repository: https://github.com/hmlea/bettersec
+
